@@ -1,0 +1,31 @@
+{
+  "name": "tradepreflight",
+  "version": "1.0.0",
+  "description": "Multi-agent order intelligence system — run your preflight before every trade",
+  "author": "Aman Bhatia <aman@bhatiaverse.com>",
+  "license": "Apache-2.0",
+  "keywords": [
+    "trading",
+    "order-intelligence",
+    "zerodha",
+    "kite-connect",
+    "nifty",
+    "options",
+    "risk-management",
+    "multi-agent",
+    "india"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amanbhatia/tradepreflight"
+  },
+  "homepage": "https://github.com/amanbhatia/tradepreflight#readme",
+  "type": "module",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "peerDependencies": {
+    "kiteconnect": "^4.x"
+  }
+}
