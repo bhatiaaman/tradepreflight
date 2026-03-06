@@ -117,7 +117,7 @@ Open `https://github.com/amanbhatia/tradepreflight` in your browser — you shou
 ## Step 8: Add Topics for Discoverability
 
 ```bash
-gh repo edit tradepreflight \
+gh repo edit bhatiaaman/tradepreflight \
   --add-topic trading \
   --add-topic zerodha \
   --add-topic kite-connect \
@@ -137,7 +137,7 @@ gh release create v1.0.0 \
   --title "TradePreflight v1.0.0" \
   --notes "Initial open-source release.
 
-Five-agent order intelligence system for Indian markets built by Aman Bhatia.
+Five-agent order intelligence system for Indian markets built by Amandeep Bhatia.
 
 Agents: Behavioral · Structure · Pattern · Station · OI
 
@@ -216,5 +216,5 @@ git push -u origin main
 gh repo edit tradepreflight --add-topic trading --add-topic zerodha --add-topic kite-connect --add-topic nifty --add-topic options --add-topic order-intelligence --add-topic india --add-topic algotrading
 
 # 8. Create release
-gh release create v1.0.0 --title "TradePreflight v1.0.0" --notes "Initial open-source release by Aman Bhatia. Five-agent order intelligence for Indian markets. Apache 2.0."
+gh release create v1.0.0 --title "TradePreflight v1.0.0" --notes "Initial open-source release by Amandeep Bhatia. Five-agent order intelligence for Indian markets. Apache 2.0."
 ```

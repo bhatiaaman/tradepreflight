@@ -1,4 +1,4 @@
-// Copyright (c) 2025 Aman Bhatia — TradePreflight
+// Copyright (c) 2025 Amandeep Bhatia — TradePreflight
 // Licensed under Apache 2.0 — https://github.com/amanbhatia/tradepreflight
 // ─────────────────────────────────────────────────────────────────────────────
 // Station Agent — answers "Am I at the right zone to trade?"

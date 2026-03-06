@@ -4,7 +4,7 @@
 
 A multi-agent order intelligence system that validates trades against behavioral discipline, technical structure, candlestick patterns, support/resistance stations, and live options open interest — before the order is placed.
 
-Built and designed by **[Aman Bhatia](https://github.com/amanbhatia)** as part of [Bhatiaverse](https://github.com/amanbhatia/bhatiaverse) — a personal trading terminal for Indian markets.
+Built and designed by **[Amandeep Bhatia](https://github.com/amanbhatia)** as part of [Bhatiaverse](https://github.com/amanbhatia/bhatiaverse) — a personal trading terminal for Indian markets.
 
 ---
 
@@ -226,7 +226,7 @@ TradePreflight is purpose-built for Indian markets:
 
 ## Author
 
-**Aman Bhatia**
+**Amandeep Bhatia**
 - GitHub: [@amanbhatia](https://github.com/amanbhatia)
 - Project: [Bhatiaverse](https://github.com/amanbhatia/bhatiaverse)
 
@@ -236,7 +236,7 @@ TradePreflight is purpose-built for Indian markets:
 
 ## License
 
-Copyright (c) 2025 Aman Bhatia
+Copyright (c) 2025 Amandeep Bhatia
 
 Licensed under the [Apache License 2.0](LICENSE).
 

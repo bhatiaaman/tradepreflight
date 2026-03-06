@@ -2,7 +2,7 @@
   "name": "tradepreflight",
   "version": "1.0.0",
   "description": "Multi-agent order intelligence system — run your preflight before every trade",
-  "author": "Aman Bhatia <aman@bhatiaverse.com>",
+  "author": "Amandeep Bhatia <aman@bhatiaverse.com>",
   "license": "Apache-2.0",
   "keywords": [
     "trading",

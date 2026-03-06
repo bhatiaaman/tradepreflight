@@ -1,6 +1,6 @@
 # TradePreflight: Why I Built a Multi-Agent System to Stop Myself From Trading
 
-*By Aman Bhatia | March 2025*
+*By Amandeep Bhatia | March 2025*
 
 ---
 
@@ -175,7 +175,7 @@ If you're building something on Kite Connect, or you have ideas for new checks, 
 
 ---
 
-*Aman Bhatia builds Bhatiaverse — a personal full-stack trading terminal for Indian markets.*
+*Amandeep Bhatia builds Bhatiaverse — a personal full-stack trading terminal for Indian markets.*
 *Twitter/X: @amanbhatia*
 
 ---
